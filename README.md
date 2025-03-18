@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=52&width=435&lines=name+%3D+input('Enter+your+name%3A+');print(name);Nick!)](https://git.io/typing-svg)
 <h2 align="left"></h2>
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@nickdxt/30-nites-of-code)  
+  ![@nickdxt #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nickdxt)
 
 ###
 
 <div align="left">
-  ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@nickdxt/30-nites-of-code)  
-  ![@nickdxt #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nickdxt)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
