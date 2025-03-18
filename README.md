@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=67F4F7&width=435&lines=print('Welcome!'))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=username+%3D+input('Enter+your+name%3A+')+;print(username);Nick!)](https://git.io/typing-svg)
 
 <h2 align="left"></h2>
 
